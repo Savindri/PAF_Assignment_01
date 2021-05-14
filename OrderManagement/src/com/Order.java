@@ -2,7 +2,7 @@ package com;
 
 import java.sql.*; 
 public class Order 
-{ //Connection to the DB
+{ //Connect to DB
 
 private Connection connect() 
  { 
